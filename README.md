@@ -1,5 +1,8 @@
 # Pearl-DevOps-Technical-Challenge
 
+# Please read the Additional README.md file, it has all my notes
+
+
 Technical Challenge for DevOps  Engineer Role at Pearl.
 
 ## Write a Dockerfile for a Computer Vision Application with the following dependencies, that can be run on CPU and GPU.

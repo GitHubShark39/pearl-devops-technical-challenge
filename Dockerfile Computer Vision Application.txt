@@ -1,0 +1,13 @@
+
+
+
+Dockerfile Computer Vision Application.txt
+
+cpu
+gpu
+Python 3.6
+opencv
+opencv-contrib
+numpy
+scipy
+

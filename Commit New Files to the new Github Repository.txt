@@ -1,0 +1,49 @@
+Create new Github Repository.txt
+
+Pearl - Homework Problem - 12/13/2019
+Royal C. Jackson Jr.
+00_Pearl_Repository
+
+
+
+
+
+1. Create New Repository on Github.com
+
+2. Clone New Repository on local(laptop)
+
+3. Add files and directories, and implement the following commands below:
+
+C:\Users\redvulture>cd C:\00_Pearl_Repository
+
+C:\00_Pearl_Repository>
+
+C:\00_Pearl_Repository>git clone https://github.com/GitHubShark39/pearl-devops-technical-challenge.git
+Cloning into 'pearl-devops-technical-challenge'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+
+C:\00_Pearl_Repository>
+
+
+C:\00_Pearl_Repository>ls
+people10.docker.redvulture.github.io
+
+C:\00_Pearl_Repository>cd people10.docker.redvulture.github.io
+
+
+C:\00_Pearl_Repository>git push https://github.com/GitHubShark39/people10.docker.redvulture.github.io.git
+Username for 'https://github.com/GitHubShark39/people10.docker.redvulture.github.io.git': GitHubShark39
+Password for 'https://GitHubShark39@github.com/GitHubShark39/people10.docker.redvulture.github.io.git':
+
+
+C:\00_Pearl_Repository>
+
+
+
+
+
+

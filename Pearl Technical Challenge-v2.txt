@@ -1,0 +1,22 @@
+
+Pearl Technical Challenge-v2.txt
+Pearl Technical Challenge
+
+
+Hi Royal,
+
+Thank you for taking the time to chat with me today, regarding the DevOps Engineer role 
+at Pearl. It was great talking to you. We'd like to move forward with the next round. 
+As I had mentioned, here is the link to the technical challenge for the same.
+
+
+To submit your solution: 
+- Fork the repository
+- Commit your solution 
+- Share the link to your forked repository as a reply to this email by EOD Friday Dec 13th.
+
+Let me know if you have any questions. 
+
+Good luck! 
+Best,
+Nishita.

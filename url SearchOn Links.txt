@@ -1,0 +1,23 @@
+
+
+url SearchOn Links
+
+url SearchOn Links:
+
+https://hub.docker.com/r/ivonatau/opencv-contrib-python3.5/dockerfile
+https://github.com/openai/generating-reviews-discovering-sentiment/issues/22
+https://github.com/tensorflow/models/blob/master/official/Dockerfile.cpu
+https://github.com/fbcotter/docker-tensorflow-opencv
+https://github.com/fbcotter/docker-tensorflow-opencv/blob/master/Dockerfile
+https://github.com/floydhub/dl-docker
+https://github.com/floydhub/dl-docker/blob/master/Dockerfile.gpu
+https://github.com/ufoym/deepo
+https://www.tensorflow.org/install/docker
+https://marmelab.com/blog/2018/03/21/using-nvidia-gpu-within-docker-container.html
+
+https://github.com/Kaggle/docker-python/blob/master/gpu.Dockerfile
+https://hub.docker.com/r/ufoym/deepo/
+https://pypi.org/project/opencv-contrib-python/
+https://github.com/cassiobotaro/docker-opencv-contrib/blob/master/Dockerfile
+https://hub.docker.com/r/tensorflow/tensorflow/
+https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-18-04/

@@ -1,0 +1,21 @@
+
+
+Pearl-DevOps-Technical-Challenge.txt
+Technical Challenge for DevOps Engineer Role at Pearl.
+
+Write a Dockerfile for a Computer Vision Application with the following dependencies, 
+that can be run on CPU and GPU:
+
+
+python3.6
+opencv + opencv-contrib
+numpy
+scipy
+
+
+
+Would you choose to have different Dockerfiles for CPU and GPU versions? 
+
+
+Why?
+
